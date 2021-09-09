@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,gCACF,CACA,YACE,qBACF","file":"main.e32131c3.chunk.css","sourcesContent":["body{\n  font-family: Gill Sans, sans-serif;\n}\nth, table, td{\n  border: 1px solid black;\n}"]}

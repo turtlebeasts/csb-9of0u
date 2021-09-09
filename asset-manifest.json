@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://turtlebeasts.github.io/csb-9of0u/static/css/main.e32131c3.chunk.css",
+    "main.js": "https://turtlebeasts.github.io/csb-9of0u/static/js/main.817e2aa9.chunk.js",
+    "main.js.map": "https://turtlebeasts.github.io/csb-9of0u/static/js/main.817e2aa9.chunk.js.map",
+    "runtime-main.js": "https://turtlebeasts.github.io/csb-9of0u/static/js/runtime-main.a662beb5.js",
+    "runtime-main.js.map": "https://turtlebeasts.github.io/csb-9of0u/static/js/runtime-main.a662beb5.js.map",
+    "static/js/2.38915b6d.chunk.js": "https://turtlebeasts.github.io/csb-9of0u/static/js/2.38915b6d.chunk.js",
+    "static/js/2.38915b6d.chunk.js.map": "https://turtlebeasts.github.io/csb-9of0u/static/js/2.38915b6d.chunk.js.map",
+    "index.html": "https://turtlebeasts.github.io/csb-9of0u/index.html",
+    "static/css/main.e32131c3.chunk.css.map": "https://turtlebeasts.github.io/csb-9of0u/static/css/main.e32131c3.chunk.css.map",
+    "static/js/2.38915b6d.chunk.js.LICENSE.txt": "https://turtlebeasts.github.io/csb-9of0u/static/js/2.38915b6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a662beb5.js",
+    "static/js/2.38915b6d.chunk.js",
+    "static/css/main.e32131c3.chunk.css",
+    "static/js/main.817e2aa9.chunk.js"
+  ]
+}
